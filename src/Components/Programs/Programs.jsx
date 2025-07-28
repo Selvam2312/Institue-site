@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import './programs.css'
+import './Programs.css'
 import program_1 from '../../assets/program-4.png'
 import program_2 from '../../assets/program-5.png'
 import program_3 from '../../assets/program-6.png'
