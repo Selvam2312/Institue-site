@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-scroll';
 import './Navbar.css'
-import besant_logo from '../../assets/besant-logo.png'
+import besant_logo from '../../assets/Besant-logo.png'
 import menu_icon from '../../assets/menu-icon.png'
 
 const Navbar = () => {
